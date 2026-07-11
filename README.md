@@ -1,6 +1,3 @@
-# Breast-Cancer-Classification-with-MLP-2D-Hidden-Space-Visualization
-A PyTorch-based multilayer perceptron (MLP) trained on the Breast Cancer Wisconsin dataset, featuring a 2D bottleneck layer for visualizing learned feature representations.  
-
 # Breast Cancer Classification with MLP
 
 A PyTorch implementation of a multilayer perceptron (MLP) for classifying breast cancer tumors as malignant or benign using the Wisconsin Breast Cancer dataset. The model includes a 2‑unit bottleneck layer, enabling direct visualization of the learned feature space.
