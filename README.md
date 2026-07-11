@@ -12,7 +12,7 @@ A PyTorch implementation of a multilayer perceptron (MLP) for classifying breast
 - **Activation** – ReLU after first hidden layer, Sigmoid at output
 - **Training** – Binary Cross Entropy loss, Adam optimizer, 200 epochs
 - **Visualizations** – Training loss curve & 2D bottleneck feature scatter plot
-- **Performance** – Achieves ~97% test accuracy
+- **Performance** – Achieves 94.74% test accuracy
 
 ## Requirements
 
